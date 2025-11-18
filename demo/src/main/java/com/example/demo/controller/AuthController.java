@@ -57,7 +57,7 @@ public class AuthController {
 
     /**
      * Endpoint para buscar dados de um usuário
-     * GET /api/auth/users/{id}
+     * GET /api/users/{id}
      * @param id o ID do usuário
      * @return dados do usuário
      */
